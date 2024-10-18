@@ -21,8 +21,6 @@ Os objetivos específicos são:
    
 # Materiais e Métodos
 As ferramentas, dados, métricas, forma de amostragem, análise estatística são:
-* Os projetos de código aberto selecionados são aqueles que utilizam a plataforma GitHub (https://github.com/). Um conjunto de 30 projetos com diferente número de forks, de 10 a 10000, são analisados.
-* Dados dos commits são coletados via Interface de Programação de Aplicações (API) do GitHub (https://docs.github.com/en/rest?apiVersion=2022-11-28). A cada commit estão associadas as informações do projeto, programador e data.
-* Engajamento de longo prazo é medido pelas métricas _Relative Activitiy Duration_ (definida no trabalho científico disponível no seguinte link https://doi.org/10.15346/hc.v1i2.12) e Activity Ratio (definida em no trabalho científico disponível no seguinte link https://doi.org/10.1109/MCSE.2014.4)
-* Progamadores são analisados em grupo pelos valores de _Relative Activitiy Duration_  e _Activity Ratio_
-* Correlação de Spearman é medida entre popularidade de projeto e média de engajamento dos programadors.
+* *Amostra*: Participantes voluntários são selecionados para realizar tarefas cognitivas em diferentes condições de áudio: sem música, com música clássica, eletrônica, pop e instrumental.
+* *Dados*: São coletados questionários pré e pós experimento para medir o humor dos participantes (usando escalas como a Escala de Humor Positivo e Negativo  PANAS) e testes de desempenho em tarefas cognitivas (ex. testes de memória ou resolução de problemas).
+* *Métricas*: O humor é medido antes e depois das sessões com diferentes tipos de música, enquanto o desempenho nas tarefas é medido pelo tempo de conclusão e pela taxa de acertos.
