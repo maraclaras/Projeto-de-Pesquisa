@@ -16,7 +16,7 @@ O objetivo geral desta pesquisa é avaliar o impacto de diferentes gêneros musi
 # Objetivos específicos
 Os objetivos específicos são:
 1. _Contrastar abordagens que mensuram o impacto da música no humor e na concentração_;
-2. _ Distinguir como diferentes gêneros musicais (clássico, instrumental, eletrônico, pop, etc.) afetam o humor e a capacidade de concentração_;
+2. _Distinguir como diferentes gêneros musicais (clássico, instrumental, eletrônico, pop, etc.) afetam o humor e a capacidade de concentração_;
 3. _Analisar se existe uma correlação entre o ritmo da música e a produtividade nas tarefas cognitivas._
    
 # Materiais e Métodos
