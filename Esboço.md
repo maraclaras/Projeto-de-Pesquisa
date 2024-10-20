@@ -1,8 +1,7 @@
 # Equipe
 
+* Giovanna Lima Torres Guasch
 * Maria Clara de Oliveira Silva
-* Giovanna
-
 
 # Tema
 O tema tratado na pesquisa é o efeito da música no humor e na concentração durante a realização de tarefas cognitivas.
@@ -24,3 +23,6 @@ As ferramentas, dados, métricas, forma de amostragem, análise estatística sã
 * *Amostra*: Participantes voluntários são selecionados para realizar tarefas cognitivas em diferentes condições de áudio: sem música, com música clássica, eletrônica, pop e instrumental.
 * *Dados*: São coletados questionários pré e pós experimento para medir o humor dos participantes (usando escalas como a Escala de Humor Positivo e Negativo  PANAS) e testes de desempenho em tarefas cognitivas (ex. testes de memória ou resolução de problemas).
 * *Métricas*: O humor é medido antes e depois das sessões com diferentes tipos de música, enquanto o desempenho nas tarefas é medido pelo tempo de conclusão e pela taxa de acertos.
+* *Análise estatística*: Para avaliar como diferentes fatores musicais (gênero, volume, ritmo) influenciam o humor e a concentração. A regressão permite observar o impacto de variáveis como gênero musical, volume e batidas por minuto (bpm) de forma simultânea nas variáveis dependentes (mudança no humor e desempenho nas tarefas cognitivas). Isso ajuda a identificar quais fatores são mais influentes, além de observar possíveis interações entre eles
+
+
