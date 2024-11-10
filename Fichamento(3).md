@@ -8,11 +8,11 @@ Este artigo apresenta o CENTRIS, uma ferramenta projetada para identificar com p
 O estudo mostra que 95% dos componentes OSS são reutilizados com modificações, seja parcialmente, com mudanças de estrutura, ou com alterações de código. O artigo contribui com um método preciso para identificar o reuso modificado, auxiliando desenvolvedores a gerenciar componentes de OSS e reduzir riscos de segurança.
 
 ## 2. Fichamento Bibliográfico
-* _Eliminação de Redundância:_ Técnica para evitar comparações redundantes no banco de dados de componentes, aumentando a eficiência do CENTRIS (página 862).
-* _Segmentação de Código:_ Processo de separar o código do aplicativo do código de terceiros, minimizando alarmes falsos e facilitando a identificação de componentes modificados (página 864).
-* _OSS Reutilizado Modificado:_ Reuso de um componente OSS em que parte do código original é alterada ou apenas uma porção do código é reutilizada (página 866).
+* _Eliminação de Redundância:_ Técnica para evitar comparações redundantes no banco de dados de componentes, aumentando a eficiência do CENTRIS.
+* _Segmentação de Código:_ Processo de separar o código do aplicativo do código de terceiros, minimizando alarmes falsos e facilitando a identificação de componentes modificados).
+* _OSS Reutilizado Modificado:_ Reuso de um componente OSS em que parte do código original é alterada ou apenas uma porção do código é reutilizada.
 * 
 ## 3. Fichamento de Citações
-* _"We propose CENTRIS, the first approach capable of precisely and scalably identifying modified OSS reuse in the presence of nested OSS components."_ (página 861)
-* _"Our observation results suggest the need to detect heavily modified components [...] CENTRIS would be a better solution for the efficient SCA process."_  (página 868)
-* _"CENTRIS successfully identified the reused components with 91% precision and 94% recall."_ (página 867)
+* _"We propose CENTRIS, the first approach capable of precisely and scalably identifying modified OSS reuse in the presence of nested OSS components."_
+* _"Our observation results suggest the need to detect heavily modified components [...] CENTRIS would be a better solution for the efficient SCA process."_
+* _"CENTRIS successfully identified the reused components with 91% precision and 94% recall."_
