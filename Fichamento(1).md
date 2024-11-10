@@ -17,6 +17,6 @@ Os resultados indicam que frameworks de compilação e testes são as funcionali
 * _Métrica de Popularidade e Coexistência:_ "UsedBy" e "Popularidade de Pares" são usadas para mensurar quantas aplicações reutilizam um componente e a frequência de coocorrência de pares de componentes reutilizados (página 4).
 
 ## 3. Fichamento de Citações
-* _""UsedBy" e "Popularidade de Pares" são usadas para mensurar quantas aplicações reutilizam um componente e a frequência de coocorrência de pares de componentes reutilizados"_ (página 4)
-* _"This study investigates the intensity of popular coexistence pairs of reused components, highlighting common practices in JavaScript development"_  (página 3)
-* _"The results show that Compiler and Testing Frameworks are the most common types of functionality coexisting in client applications"_ (página 4)
+* _""UsedBy" e "Popularidade de Pares" são usadas para mensurar quantas aplicações reutilizam um componente e a frequência de coocorrência de pares de componentes reutilizados"_ 
+* _"This study investigates the intensity of popular coexistence pairs of reused components, highlighting common practices in JavaScript development"_  
+* _"The results show that Compiler and Testing Frameworks are the most common types of functionality coexisting in client applications"_ 
