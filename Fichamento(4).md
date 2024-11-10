@@ -26,7 +26,7 @@ Além disso, o artigo enfatiza a importância de experimentação empírica e m�
 * _Métricas e Experimentos:_ Métricas como quantidade de reuso, modelos de custo-benefício e avaliação de maturidade são essenciais para validar o impacto do reuso (página 531).
 * _Abordagens Organizacionais:_
   * Centralizadas: Uma unidade desenvolve e mantém ativos reutilizáveis.
-  *Distribuídas: Projetos colaboram entre si para desenvolver e compartilhar ativos (página 530).
+  * Distribuídas: Projetos colaboram entre si para desenvolver e compartilhar ativos (página 530).
 * _Componentry:_ Envolve tecnologias como CORBA, EJB e COM+ para integração e implantação de componentes reutilizáveis (página 531).
 
 ## 3. Fichamento de Citações
