@@ -1,6 +1,6 @@
 # Reuse Opportunities in JavaScript applications
 
-Ponciano, Lesandro and Brasileiro, Francisco (2010) "On the impact of energy-saving strategies in opportunistic grids," 11th IEEE/ACM International Conference on Grid Computing, Brussels, pp. 282-289, doi: [10.1109/GRID.2010.5698003](https://doi.org/10.1109/GRID.2010.5698003).
+Terzi, Anastasia; Bibi, Stamatia; Sarigiannidis, Panagiotis (2021). "Reuse Opportunities in JavaScript applications," 2021 47th Euromicro Conference on Software Engineering and Advanced Applications (SEAA), pp. 387-391, doi: [10.1109/GRID.2010.5698003](https://doi.org/10.1109/GRID.2010.5698003).
 
 ## 1. Fichamento de Conteúdo
 
