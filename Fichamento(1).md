@@ -1,6 +1,6 @@
 # Reuse Opportunities in JavaScript applications
 
-Terzi, Anastasia; Bibi, Stamatia; Sarigiannidis, Panagiotis (2021). "Reuse Opportunities in JavaScript applications," 2021 47th Euromicro Conference on Software Engineering and Advanced Applications (SEAA), pp. 387-391, doi: [10.1109/GRID.2010.5698003](https://doi.org/10.1109/GRID.2010.5698003).
+Terzi, Anastasia; Bibi, Stamatia; Sarigiannidis, Panagiotis (2021). "Reuse Opportunities in JavaScript applications," 2021 47th Euromicro Conference on Software Engineering and Advanced Applications (SEAA), pp. 387-391, doi: [10.1109/SEAA53835.2021.00057.](https://ieeexplore.ieee.org/abstract/document/9582564).
 
 ## 1. Fichamento de Conteúdo
 
