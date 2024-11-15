@@ -18,28 +18,43 @@ Resolver este problema é relevante porque a avaliação do engajamento em proje
 
 ## Fundamentação Teórica
 
-1. O conceito/teoria principal associado a este trabalho é _desenvolvimento de software open source_  A sua definição neste trabalho é o "desenvolvimento de software lançado sob uma licença na qual o detentor dos direitos autorais concede aos usuários os direitos de usar, estudar, alterar e distribuir o software e seu código-fonte a qualquer pessoa e para qualquer finalidade", conforme definido no trabalho "Understanding open source and free software licensing: guide to navigating licensing issues in existing & new software" (https://www.oreilly.com/library/view/understanding-open-source/0596005814/index.html) pelo autor Andrew M Laurent (2004).
+A reutilização de software é um conceito fundamental na engenharia de software moderna, referindo-se ao uso de artefatos já desenvolvidos em novos projetos. Esta prática não apenas economiza tempo e recursos, mas também contribui para a manutenção de consistência e qualidade no desenvolvimento de sistemas complexos. Um framework de software se destaca como um exemplo clássico de artefato reutilizável, oferecendo uma infraestrutura que pode ser customizada para diferentes aplicações.
 
-1. O conceito/teoria secundário associado a este trabalho é _engajamento humano_. A sua definição neste trabalho é "um processo composto por quatro estágios distintos: ponto de engajamento, período de engajamento sustentado, desengajamento e reengajamento. Além disso, o processo é caracterizado por atributos de engajamento que dizem respeito ao usuário, ao sistema e à interação usuário-sistema.", conforme definido no trabalho "What is user engagement? A conceptual framework for defining user engagement with technology" (https://doi.org/10.1002/asi.20801), pelos autores Heather L. O'Brien, Elaine G. Toms (2008)
+O design de frameworks eficazes implica abordar questões de extensibilidade, modularidade e acoplamento. Extensibilidade refere-se à capacidade do framework de ser ampliado sem modificar sua estrutura principal. A modularidade está relacionada à organização do código em componentes independentes, enquanto o acoplamento trata da interação entre esses componentes. As estratégias de design que equilibram essas características têm se mostrado cruciais para a aceitação de frameworks na prática.
 
-1. O conceito/teoria terciário associado a este trabalho é _duração do engajamento_ A sua definição neste trabalho é _"Duração do período de engajamento sustentado, por vezes denominado retenção. Expressa quanto tempo um ser humano permanece no sistema. É um envolvimento de curto prazo quando ocorre durante um período de tempo relativamente curto (por exemplo, minutos ou horas), e um envolvimento de longo prazo quando dura um longo período de tempo (por exemplo, meses ou anos). No engajamento de curto prazo, o ponto de engajamento é o momento em que o indivíduo executa a primeira ação dentro do sistema, o período de engajamento é o intervalo de tempo durante o qual ele/ela continua interagindo com o sistema em uma sessão de trabalho contínua. No envolvimento de longo prazo, o ponto de engajamento é o momento em que o indivíduo realiza a primeira ação dentro do sistema, o período de engajamento refere-se ao número de dias em que ele continua interagindo com o sistema, e o ponto de desligamento refere-se ao dia em que ele sai do sistema e não volta mais. Assim, o envolvimento de longo prazo pode consistir em vários ciclos de envolvimento de curto prazo."_ Essa definição é conforme definido no trabalho "Finding Volunteers' Engagement Profiles in Human Computation for Citizen Science Projects" (https://doi.org/10.15346/hc.v1i2.12), pelos autores Lesandro Ponciano e Francisco Brasileiro (2014).   
-
+Pesquisas anteriores indicam que frameworks bem-sucedidos, como Spring, Django e Angular, compartilham práticas comuns, como o uso de padrões de design (por exemplo, injeção de dependência, estratégia de modelo-vista-controlador) e a disponibilização de documentações abrangentes. Além disso, frameworks que promovem a reutilização eficaz geralmente são acompanhados por uma comunidade ativa que fornece suporte contínuo aos desenvolvedores.
 
 ## Trabalhos Relacionados
 
-1. O trabalho mais relacionado é "How Gamification Affects Software Developers: Cautionary Evidence from a Natural Experiment on GitHub" (https://doi.org/10.1109/ICSE43902.2021.00058), publicado no ano 2021, por que ele estuda como programadores que atuam em código aberto respondem à gamificação, que é uma forma de engajá-los e de mantê-los engajados.
+O campo de estudo sobre frameworks e reutilização de software é vasto e conta com diversas contribuições relevantes. Gamma et al. (1995) introduziram o conceito de padrões de design no contexto do desenvolvimento de frameworks, destacando como certos padrões podem promover a reutilização e a flexibilidade. Outros estudos, como os de Johnson e Foote (1988), exploram a arquitetura de frameworks orientados a objetos, propondo a importância da generalização para facilitar a adaptação.
 
-1. O segundo trabalho mais relacionado é "Studying Software Developer Expertise and Contributions in Stack Overflow and GitHub" (https://doi.org/10.1109/ICSME46990.2020.00038), publicado no ano 2020, por que ele trata da expertise dos programadores e de suas contribuições em projetos de código aberto, permitindo entender suas contribuições em termos quantitativos e qualitativos, que são essenciais para análise de engajamento.
+Mais recentemente, pesquisas empíricas investigaram como as decisões de design impactam a usabilidade de frameworks. Por exemplo, Nguyen et al. (2016) realizaram um estudo comparativo de frameworks Java e JavaScript, demonstrando que práticas como a modularização e a documentação amigável influenciam positivamente a aceitação do framework. Já Garcia et al. (2020) analisaram as dificuldades enfrentadas por desenvolvedores ao adaptar frameworks complexos e recomendaram melhorias de design focadas na redução da complexidade.
 
-1. O terceiro trabalho mais relacionado é "Herding a Deluge of Good Samaritans: How GitHub Projects Respond to Increased Attention" (https://doi.org/10.1145/3366423.3380272), publicado no ano 2021,  por que ele coloca a questão da popularidade ou atenção recebida pelo projeto e de como isso afeta o comportamento dos programadores, sendo, portanto, relevante para se compreender como popularidade e engajamento podem estar relacionados.
+Este projeto de pesquisa busca avançar o conhecimento existente ao propor estratégias de design que possam ser empiricamente validadas, com foco na facilidade de extensão, na adaptabilidade e na aceitação do framework.
+
 ## Materiais e Métodos
 
-1. O tipo de pesquisa adotado neste trabalho é "quantitativa", porque _ela trata de atribuidos quantitativos associados à duração do engajamento dos programadores nos projetos_, e também é  e "descritiva", pois ela _trata da descrição das propriedades do engajamento natural (orgânico) dos programadores sem qualquer controle de variáveis._
+** 1.1. Seleção de Frameworks Populares **
+* Serão analisados 20 frameworks amplamente utilizados, incluindo exemplos de diferentes linguagens de programação, como Spring (Java), Django (Python) e Angular (JavaScript).
+* A escolha desses frameworks visa garantir uma análise diversificada, cobrindo aplicações web, mobile e desktop.
 
-1. Os materiais utilizados neste trabalho são come segue: a) _projetos de código aberto selecionados são aqueles que utilizam a plataforma GitHub (https://github.com/), um conjunto de 30 projetos com diferente número de forks, de 10 a 10000, são analisados; 2) dados dos commits feitos pelos programadores são coletados via Interface de Programação de Aplicações (API) do GitHub (https://docs.github.com/en/rest?apiVersion=2022-11-28). A cada commit estão associadas às informações do projeto, programador e data; 3) dados da popularidade dos projetos quanto ao número de forks e número de programadores, ambos coletados via API._
+** 1.2. Estudos de Caso **
+* Serão realizados estudos de caso comparativos para identificar práticas de design que promovem a reutilização eficaz. Frameworks com diferentes níveis de sucesso em termos de adaptação e aceitação serão comparados.
+* Exemplos de domínios de aplicação incluem desenvolvimento web (Django, Angular) e aplicações empresariais (Spring).
 
-1. Os métodos empregados neste trabalho são _agrupamento k-means (https://doi.org/10.1016/S0031-3203(02)00060-2), regressão linear, correlação (Spearman ou Kendall), análise de tendência central e de dispersão._
+** 1.3. Coleta de Dados **
+* A coleta de dados envolverá a análise de documentação oficial, inspeção de código-fonte, e consulta a repositórios GitHub associados aos frameworks.
+* Serão utilizados scripts para extrair métricas de reutilização de código, como a porcentagem de classes reutilizáveis e o tempo médio necessário para modificar o framework.
+  
+** 1.4. Métricas de Usabilidade **
+* A usabilidade dos frameworks será avaliada com base em:
+* Facilidade de extensão (tempo médio de modificação)
+* Número de linhas de código reutilizáveis
+* Tempo médio necessário para implementar um novo projeto utilizando o framework
 
-1. As métricas de avaliação empregadas no estudo são _Relative Activitiy Duration_ do programador (https://doi.org/10.15346/hc.v1i2.12), _Activity Ratio_ do programador (https://doi.org/10.1109/MCSE.2014.4), _número de forks_ do projeto e número de programadores no projeto. 
-
-1. As etapa de execução do trabalho são: (1) coletar os dados dos projetos no GitHub; (2) calcular as métricas, (3) analisar tendência central e dispersão; (4) analisar a relação entre as variáveis por correlação e regressão; e (5) analisar o agrupamento k-means. A partir dessas etapas, as questões de pesquisa são respondidas e os objetivos (geral e específicos) são atingidos.
+** 1.5. Análise Estatística **
+* A análise estatística será conduzida usando métodos como análise de variância (ANOVA) para comparar a eficácia das estratégias de design propostas.
+* A correlação de Spearman será aplicada para investigar a relação entre a extensibilidade do framework e sua aceitação pelos desenvolvedores.
+  
+** 1.6. Validação **
+* A eficácia das estratégias propostas será mensurada por meio de estudos empíricos com desenvolvedores, envolvendo experimentos controlados e questionários qualitativos.
