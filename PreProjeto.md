@@ -1,23 +1,20 @@
 # Avaliação do engajamento de longo prazo de programadores em projetos de código aberto
 
-1. Nome do aluno 1
-
-1. Nome do aluno 2 (se houver)
-
-* Lesandro Ponciano (orientador de acadêmico)
+1. Giovanna Lima Torres Guasch
+2. Maria Clara de Oliveira Silva
+* Lesandro Ponciano dos Santos - Introdução à Pesquisa em Informática
 
 ## Introdução
 
-1. A área da Engenharia de Software tratada neste trabalho é _Fatores Humanos na Engenharia de Software_ e _Desenvolvimento de Software de Código Aberto_
+A área da Engenharia de Software tratada neste trabalho é Fatores Humanos na Engenharia de Software e Desenvolvimento de Software de Código Aberto. O foco dessa pesquisa está em investigar o comportamento de engajamento de programadores em projetos de software de código aberto, um campo cada vez mais relevante dado o crescimento e a influência dessas iniciativas no desenvolvimento tecnológico global.
 
-1. O problema que este trabalho busca resolver nessa área é conforme as questões de pesquisa (RQ, do inglês _Research Questions_) a seguir: _(RQ1) Qual é a duração do engajamento de programadores em projetos de código aberto? (RQ2) Os programadores se engajam fazendo commit nos projetos de código aberto de forma transiente, i.e. uma vez e não voltam mais, ou eles permanecem engajados ao longo do tempo? (RQ3) A popularidade do projeto influencia a duração do engajamento?_
+O problema que este trabalho busca resolver envolve a compreensão de questões-chave relacionadas ao engajamento dos programadores nesses projetos, conforme delineado pelas seguintes questões de pesquisa (RQ, do inglês Research Questions):
 
-1. Resolver este problema é relevante por que _a avaliação do engajamento permite analisar a sustentabilidade do projeto de código aberto tendo a conta a tendência que ele tem programadores (contribuidores) ao longo tempo, permite avaliar riscos à sua qualidade quando os programadores no caso, por exemplo, de programadores que apresentam um comportamento transientes, e, por fim, pode-se compreender se a popularidade dos projeto incentiva no engajamento de longo prazo_
+* _(RQ1) Qual é a duração do engajamento de programadores em projetos de código aberto?_
+* _(RQ2) Os programadores se engajam fazendo commit nos projetos de código aberto de forma transiente, ou seja, contribuem uma única vez e não retornam mais, ou permanecem engajados ao longo do tempo?_
+* _(RQ3) A popularidade do projeto influencia a duração do engajamento?_
 
-1. O objetivo geral deste trabalho é _medir a duração de engajamento de longo prazo de programadores em projetos de código aberto._
-
-1. Os *três* objetivos específicos deste trabalho são: _(1) Contrastar abordagens para mensurar engajamento de longo prazo em contexto de projeto de código aberto; (2) Distinguir programadores que apresentam engajamento de longo prazo e programadores que exibem engajamento de curto prazo; (3) Analisar se a duração do engajamento é influenciada por características de popularidade dos projetos, como o número de forks._
-
+Resolver este problema é relevante porque a avaliação do engajamento em projetos de código aberto permite analisar a sustentabilidade dessas iniciativas ao longo do tempo. Se muitos programadores apresentarem comportamentos transientes, os projetos podem estar sujeitos a riscos de qualidade e continuidade. Além disso, entender se a popularidade de um projeto influencia o engajamento prolongado dos programadores é essencial para criar estratégias de incentivo à colaboração contínua, garantindo que as comunidades em torno desses projetos permaneçam vibrantes e produtivas.
 
 ## Fundamentação Teórica
 
