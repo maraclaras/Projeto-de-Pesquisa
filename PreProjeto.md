@@ -10,9 +10,9 @@ A área da Engenharia de Software tratada neste trabalho é Fatores Humanos na E
 
 O problema que este trabalho busca resolver envolve a compreensão de questões-chave relacionadas ao engajamento dos programadores nesses projetos, conforme delineado pelas seguintes questões de pesquisa (RQ, do inglês Research Questions):
 
-* _(RQ1) Qual é a duração do engajamento de programadores em projetos de código aberto?_
-* _(RQ2) Os programadores se engajam fazendo commit nos projetos de código aberto de forma transiente, ou seja, contribuem uma única vez e não retornam mais, ou permanecem engajados ao longo do tempo?_
-* _(RQ3) A popularidade do projeto influencia a duração do engajamento?_
+1. _(RQ1) Qual é a duração do engajamento de programadores em projetos de código aberto?_
+2. _(RQ2) Os programadores se engajam fazendo commit nos projetos de código aberto de forma transiente, ou seja, contribuem uma única vez e não retornam mais, ou permanecem engajados ao longo do tempo?_
+3. _(RQ3) A popularidade do projeto influencia a duração do engajamento?_
 
 Resolver este problema é relevante porque a avaliação do engajamento em projetos de código aberto permite analisar a sustentabilidade dessas iniciativas ao longo do tempo. Se muitos programadores apresentarem comportamentos transientes, os projetos podem estar sujeitos a riscos de qualidade e continuidade. Além disso, entender se a popularidade de um projeto influencia o engajamento prolongado dos programadores é essencial para criar estratégias de incentivo à colaboração contínua, garantindo que as comunidades em torno desses projetos permaneçam vibrantes e produtivas.
 
