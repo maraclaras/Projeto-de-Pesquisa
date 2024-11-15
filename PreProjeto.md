@@ -34,27 +34,27 @@ Este projeto de pesquisa busca avançar o conhecimento existente ao propor estra
 
 ## Materiais e Métodos
 
-** 1.1. Seleção de Frameworks Populares **
+**1.1. Seleção de Frameworks Populares**
 * Serão analisados 20 frameworks amplamente utilizados, incluindo exemplos de diferentes linguagens de programação, como Spring (Java), Django (Python) e Angular (JavaScript).
 * A escolha desses frameworks visa garantir uma análise diversificada, cobrindo aplicações web, mobile e desktop.
 
-** 1.2. Estudos de Caso **
+**1.2. Estudos de Caso**
 * Serão realizados estudos de caso comparativos para identificar práticas de design que promovem a reutilização eficaz. Frameworks com diferentes níveis de sucesso em termos de adaptação e aceitação serão comparados.
 * Exemplos de domínios de aplicação incluem desenvolvimento web (Django, Angular) e aplicações empresariais (Spring).
 
-** 1.3. Coleta de Dados **
+**1.3. Coleta de Dados**
 * A coleta de dados envolverá a análise de documentação oficial, inspeção de código-fonte, e consulta a repositórios GitHub associados aos frameworks.
 * Serão utilizados scripts para extrair métricas de reutilização de código, como a porcentagem de classes reutilizáveis e o tempo médio necessário para modificar o framework.
   
-** 1.4. Métricas de Usabilidade **
+**1.4. Métricas de Usabilidade**
 * A usabilidade dos frameworks será avaliada com base em:
 * Facilidade de extensão (tempo médio de modificação)
 * Número de linhas de código reutilizáveis
 * Tempo médio necessário para implementar um novo projeto utilizando o framework
 
-** 1.5. Análise Estatística **
+**1.5. Análise Estatística**
 * A análise estatística será conduzida usando métodos como análise de variância (ANOVA) para comparar a eficácia das estratégias de design propostas.
 * A correlação de Spearman será aplicada para investigar a relação entre a extensibilidade do framework e sua aceitação pelos desenvolvedores.
   
-** 1.6. Validação **
+**1.6. Validação**
 * A eficácia das estratégias propostas será mensurada por meio de estudos empíricos com desenvolvedores, envolvendo experimentos controlados e questionários qualitativos.
