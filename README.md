@@ -8,5 +8,5 @@
   * [CENTRIS: A Precise and Scalable Approach for Identifying Modified Open-Source Software Reuse](Fichamento(3).md)
   * [Towards A Novel Conceptual Framework for Analyzing Code Clones to Assist in Software Development and Software Reuse](Fichamento(4).md)
 
- * Pré-Projeto
+ * Pré Projeto
     * [Pré Projeto](PreProjeto.md)
