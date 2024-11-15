@@ -1,4 +1,4 @@
-# Projeto-de-Pesquisa
+# Projeto de Pesquisa => Introdução à Pesquisa em Informática 
 
 * Esboço de projeto de pesquisa
   * [Esboço](Esboço.md)
