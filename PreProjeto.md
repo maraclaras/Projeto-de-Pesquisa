@@ -21,9 +21,9 @@
 
 1. O tipo de pesquisa adotado neste trabalho é "exploratória e experimental", porque _busca investigar estratégias de design de frameworks, explorando práticas existentes e testando novas abordagens para avaliar sua eficácia na reutilização e adaptabilidade_.
 
-2. Os materiais utilizados neste trabalho são: ambientes de desenvolvimento de software (IDEs) como Visual Studio Code e Eclipse; frameworks de código aberto como Spring, Django e .NET para análise comparativa; documentação técnica e repositórios de código em plataformas como [GitHub](https://github.com/) e dados qualitativos coletados por meio de entrevistas com desenvolvedores.
+2. Os materiais utilizados neste trabalho são: ambientes de desenvolvimento de software (IDEs) como Visual Studio Code; frameworks de código aberto (por exemplo, Spring Boot e React) para análise comparativa; e documentação técnica e repositórios de código em plataformas como [GitHub](https://github.com/).
 
-3. Os métodos empregados neste trabalho são: análise comparativa de frameworks, baseada nas diretrizes de Bosch (2000) e Gamma et al. (1994), e estudo de caso, fundamentado nas práticas descritas por Johnson e Foote (1988), para testar a aplicabilidade de diferentes estratégias de design em protótipos.
+3. Os métodos empregados neste trabalho são: _análise comparativa de frameworks, estudo de caso para testar diferentes abordagens de design, e pesquisa qualitativa para coleta de feedback dos desenvolvedores sobre usabilidade e adaptabilidade_.
 
 4. As métricas de avaliação são: Facilidade de aprendizado (medida pelo tempo necessário para entender e utilizar o framework), baseada em Nielsen, J. (1993), _["Usability Engineering"]({https://books.google.com.br/books?id=95As2OF67f0C)_, adaptabilidade (avaliação da facilidade de modificar o framework para novos requisitos), conforme descrito por Fayad, M., Schmidt, D., & Johnson, R. (2000), _[“Building Application Frameworks: Object-Oriented Foundations of Framework Design”](https://dl.acm.org/doi/book/10.5555/326112)_, taxa de reutilização (proporção de componentes reutilizados em diferentes projetos), fundamentada nos princípios de reutilização descritos por Gamma, E., Helm, R., Johnson, R., & Vlissides, J. (1994), _[“Design Patterns: Elements of Reusable Object-Oriented Software”](https://books.google.com.br/books?id=iyIvGGp2550C)_.
 
