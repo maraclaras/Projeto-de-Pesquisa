@@ -6,6 +6,21 @@
 
 ## Introdução
 
+Este trabalho aborda a área da Engenharia de Software focada no design de frameworks, com ênfase em sua reutilização, adaptabilidade e eficiência no desenvolvimento de software.
+
+O problema explorado neste estudo é: Quais estratégias de design de frameworks garantem uma utilização eficaz do software em diferentes cenários? De que forma essas estratégias impactam a usabilidade e a capacidade de adaptação dos frameworks pelos desenvolvedores?
+
+A relevância de resolver este problema está no fato de que frameworks são ferramentas essenciais para o desenvolvimento de software, permitindo maior agilidade e qualidade nos projetos. No entanto, frameworks que não são bem projetados podem dificultar seu uso e personalização, além de causar perdas de tempo e recursos. Identificar soluções eficazes contribui para aprimorar o processo de desenvolvimento e a experiência dos desenvolvedores, bem como para maximizar o potencial dessas ferramentas.
+
+O objetivo geral deste estudo é investigar e propor estratégias de design que favoreçam a eficiência, a adaptabilidade e a usabilidade dos frameworks no contexto do desenvolvimento de software.
+
+Os objetivos específicos do trabalho são:
+1. Estudar frameworks já existentes para identificar práticas de design que favoreçam a eficiência e o uso adequado.
+
+2. Avaliar como diferentes abordagens de design afetam a usabilidade e a adaptabilidade dos frameworks em diferentes contextos.
+
+3. Desenvolver diretrizes práticas para o design de frameworks que possam ser utilizados de forma eficaz em diversos cenários.
+
 ## Fundamentação Teórica
 
 1. O conceito/teoria principal, Reutilização de Software, é definido como o processo de desenvolver componentes que possam ser aplicados em múltiplos projetos para aumentar a eficiência, consistência e reduzir custos no desenvolvimento. Jacobson et al. (1997) enfatizam que a reutilização sistemática requer uma arquitetura sólida e estratégias que promovam a fácil integração de componentes reutilizáveis. Mais recentemente, o artigo [A3-CodGen: A Repository-Level Code Generation Framework for Code Reuse (2024)](https://ieeexplore.ieee.org/document/10734067) amplia essa definição ao demonstrar frameworks de geração de código que maximizam a taxa de reutilização e otimizam a utilização de bibliotecas locais e globais
