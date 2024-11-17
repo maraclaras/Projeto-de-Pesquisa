@@ -6,16 +6,6 @@
 
 ## Introdução
 
-A área da Engenharia de Software tratada neste trabalho é Fatores Humanos na Engenharia de Software e Desenvolvimento de Software de Código Aberto. O foco dessa pesquisa está em investigar o comportamento de engajamento de programadores em projetos de software de código aberto, um campo cada vez mais relevante dado o crescimento e a influência dessas iniciativas no desenvolvimento tecnológico global.
-
-O problema que este trabalho busca resolver envolve a compreensão de questões-chave relacionadas ao engajamento dos programadores nesses projetos, conforme delineado pelas seguintes questões de pesquisa (RQ, do inglês Research Questions):
-
-1. _(RQ1) Qual é a duração do engajamento de programadores em projetos de código aberto?_
-2. _(RQ2) Os programadores se engajam fazendo commit nos projetos de código aberto de forma transiente, ou seja, contribuem uma única vez e não retornam mais, ou permanecem engajados ao longo do tempo?_
-3. _(RQ3) A popularidade do projeto influencia a duração do engajamento?_
-
-Resolver este problema é relevante porque a avaliação do engajamento em projetos de código aberto permite analisar a sustentabilidade dessas iniciativas ao longo do tempo. Se muitos programadores apresentarem comportamentos transientes, os projetos podem estar sujeitos a riscos de qualidade e continuidade. Além disso, entender se a popularidade de um projeto influencia o engajamento prolongado dos programadores é essencial para criar estratégias de incentivo à colaboração contínua, garantindo que as comunidades em torno desses projetos permaneçam vibrantes e produtivas.
-
 ## Fundamentação Teórica
 
 1. O conceito/teoria principal, Reutilização de Software, é definido como o processo de desenvolver componentes que possam ser aplicados em múltiplos projetos para aumentar a eficiência, consistência e reduzir custos no desenvolvimento. Jacobson et al. (1997) enfatizam que a reutilização sistemática requer uma arquitetura sólida e estratégias que promovam a fácil integração de componentes reutilizáveis. Mais recentemente, o artigo [A3-CodGen: A Repository-Level Code Generation Framework for Code Reuse (2024)](https://ieeexplore.ieee.org/document/10734067) amplia essa definição ao demonstrar frameworks de geração de código que maximizam a taxa de reutilização e otimizam a utilização de bibliotecas locais e globais
@@ -26,11 +16,6 @@ Resolver este problema é relevante porque a avaliação do engajamento em proje
 
 ## Trabalhos Relacionados
 
-O campo de estudo sobre frameworks e reutilização de software é vasto e conta com diversas contribuições relevantes. Gamma et al. (1995) introduziram o conceito de padrões de design no contexto do desenvolvimento de frameworks, destacando como certos padrões podem promover a reutilização e a flexibilidade. Outros estudos, como os de Johnson e Foote (1988), exploram a arquitetura de frameworks orientados a objetos, propondo a importância da generalização para facilitar a adaptação.
-
-Mais recentemente, pesquisas empíricas investigaram como as decisões de design impactam a usabilidade de frameworks. Por exemplo, Nguyen et al. (2016) realizaram um estudo comparativo de frameworks Java e JavaScript, demonstrando que práticas como a modularização e a documentação amigável influenciam positivamente a aceitação do framework. Já Garcia et al. (2020) analisaram as dificuldades enfrentadas por desenvolvedores ao adaptar frameworks complexos e recomendaram melhorias de design focadas na redução da complexidade.
-
-Este projeto de pesquisa busca avançar o conhecimento existente ao propor estratégias de design que possam ser empiricamente validadas, com foco na facilidade de extensão, na adaptabilidade e na aceitação do framework.
 
 ## Materiais e Métodos
 
@@ -38,7 +23,7 @@ Este projeto de pesquisa busca avançar o conhecimento existente ao propor estra
 
 2. Os materiais utilizados neste trabalho são: ambientes de desenvolvimento de software (IDEs) como Visual Studio Code e Eclipse; frameworks de código aberto como Spring, Django e .NET para análise comparativa; documentação técnica e repositórios de código em plataformas como [GitHub](https://github.com/) e dados qualitativos coletados por meio de entrevistas com desenvolvedores.
 
-3. Os métodos empregados neste trabalho são: análise comparativa de frameworks, estudo de caso para testar diferentes abordagens de design, e pesquisa qualitativa para coleta de feedback dos desenvolvedores sobre usabilidade e adaptabilidade.
+3. Os métodos empregados neste trabalho são: análise comparativa de frameworks, baseada nas diretrizes de Bosch (2000) e Gamma et al. (1994), e estudo de caso, fundamentado nas práticas descritas por Johnson e Foote (1988), para testar a aplicabilidade de diferentes estratégias de design em protótipos.
 
 4. As métricas de avaliação são: Facilidade de aprendizado (medida pelo tempo necessário para entender e utilizar o framework), _baseada em Nielsen, J. (1993), _["Usability Engineering"]({https://books.google.com.br/books?id=95As2OF67f0C)_, adaptabilidade (avaliação da facilidade de modificar o framework para novos requisitos), conforme descrito por Fayad, M., Schmidt, D., & Johnson, R. (2000), _[“Building Application Frameworks: Object-Oriented Foundations of Framework Design”](https://dl.acm.org/doi/book/10.5555/326112)_, taxa de reutilização (proporção de componentes reutilizados em diferentes projetos), fundamentada nos princípios de reutilização descritos por Gamma, E., Helm, R., Johnson, R., & Vlissides, J. (1994), _[“Design Patterns: Elements of Reusable Object-Oriented Software”](https://books.google.com.br/books?id=iyIvGGp2550C)_.
 
