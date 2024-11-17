@@ -8,7 +8,7 @@
 O tema tratado na pesquisa é Reutilização de software e design de frameworks.
 
 # Problema
-O problema a ser resolvido na pesquisa é: Quais estratégias de design de frameworks promovem uma utilização eficaz de software em diferentes contextos? Como essas estratégias influenciam a facilidade de uso e a adaptabilidade do framework por parte dos desenvolvedores?.
+O problema a ser resolvido na pesquisa é: Quais estratégias de design de frameworks promovem uma utilização eficaz de software em diferentes contextos? Como essas estratégias influenciam a facilidade de uso e a adaptabilidade do framework por parte dos desenvolvedores?
 
 # Objetivo geral
 O objetivo geral a ser alcançado nesta pesquisa é investigar e propor estratégias de design de frameworks que promovam a reutilização eficaz de software em diferentes contextos de aplicação.
