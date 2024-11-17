@@ -31,7 +31,12 @@ Os objetivos específicos do trabalho são:
 
 ## Trabalhos Relacionados
 
+1. O trabalho mais relacionado é ["A Two-State Adaptive Ant Colony Algorithm Framework for Solving Multi-objective Optimization Problems"](https://ieeexplore.ieee.org/document/10291818), publicado em 2023, porque propõe um framework adaptativo para algoritmos de colônia de formigas que equilibra a exploração e o desenvolvimento no espaço de busca de problemas multiobjetivo. A solução introduz o conceito de "modelo de nuvem" para otimizar a diversidade e a convergência das soluções de Pareto, mostrando resultados eficazes na resolução de problemas como o problema do caixeiro viajante multiobjetivo​
 
+2. O segundo trabalho mais relacionado é ["Modeling Framework API Evolution as a Multi-objective Optimization Problem"](https://ieeexplore.ieee.org/document/5970177), publicado em 2011, porque explora a evolução de APIs de frameworks como um problema de otimização multiobjetivo, considerando fatores como dependência de chamadas e similaridade textual. O artigo apresenta o método MOFAE (Multi-Objective Framework API Evolution), que visa melhorar a precisão e a abrangência na identificação de regras de mudança de API, facilitando a adaptação de programas para novas versões de frameworks sem comprometer a complexidade do algoritmo
+   
+3. O terceiro trabalho mais relacionado é ["Towards Four-Layer Framework of Combinatorial Problems"](https://ieeexplore.ieee.org/document/4591685), publicado em 2008, porque  sugere uma abordagem de quatro camadas para estruturar e resolver problemas combinatórios. O framework inclui modelos básicos, modelos compostos, frameworks de resolução padrão, e frameworks orientados a domínios. Esta estrutura é aplicada a problemas complexos, como a alocação de recursos e o design modular de software, proporcionando uma base metodológica para desenvolver soluções eficientes e adaptáveis em diversos contextos​
+   
 ## Materiais e Métodos
 
 1. O tipo de pesquisa adotado neste trabalho é "exploratória e experimental", porque _busca investigar estratégias de design de frameworks, explorando práticas existentes e testando novas abordagens para avaliar sua eficácia na reutilização e adaptabilidade_.
