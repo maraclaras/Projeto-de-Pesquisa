@@ -22,7 +22,7 @@ Resolver este problema é relevante porque a avaliação do engajamento em proje
 
 2. O conceito/teoria secundário, Design de Frameworks, refere-se a estruturas que oferecem uma base reutilizável para o desenvolvimento de software. Fayad e Schmidt (1997) destacam que frameworks bem projetados devem ser extensíveis e promover a reutilização sem comprometer a flexibilidade. Artigos recentes, como [Standard-Driven Software Component Reuse and Agile Testing (2023)](https://ieeexplore.ieee.org/abstract/document/10633676), ressaltam a importância de integrar frameworks com práticas ágeis para garantir a qualidade e eficiência do software desenvolvido, evidenciando como a conformidade com padrões acelera o processo de desenvolvimento e reduz o retrabalho​.
 
-3. O conceito/teoria terciário, Facilidade de Uso e Adaptabilidade, é essencial para o sucesso dos frameworks. Jakob Nielsen (1993), em "Usability Engineering", define a facilidade de uso em termos de eficiência e satisfação do usuário, enquanto a adaptabilidade refere-se à capacidade do software de ser modificado facilmente para atender a novos requisitos. Esses princípios são explorados em frameworks modernos que visam melhorar a experiência do desenvolvedor e simplificar a personalização para diferentes contextos de aplicação​
+3. O conceito/teoria terciário, Facilidade de Uso e Adaptabilidade, é essencial para o sucesso dos frameworks. Jakob Nielsen (1993), em "Usability Engineering", em particular, no capítulo 2 ["What is Usability?"](https://doi.org/10.1016/B978-0-08-052029-2.50005-X) e no capítulo 5, definem a facilidade de uso em termos de eficiência e satisfação do usuário, enquanto a adaptabilidade refere-se à capacidade do software de ser modificado facilmente para atender a novos requisitos. Esses princípios são explorados em frameworks modernos que visam melhorar a experiência do desenvolvedor e simplificar a personalização para diferentes contextos de aplicação​
 
 ## Trabalhos Relacionados
 
@@ -34,27 +34,12 @@ Este projeto de pesquisa busca avançar o conhecimento existente ao propor estra
 
 ## Materiais e Métodos
 
-**1.1. Seleção de Frameworks Populares**
-* Serão analisados 20 frameworks amplamente utilizados, incluindo exemplos de diferentes linguagens de programação, como Spring (Java), Django (Python) e Angular (JavaScript).
-* A escolha desses frameworks visa garantir uma análise diversificada, cobrindo aplicações web, mobile e desktop.
+1. O tipo de pesquisa adotado neste trabalho é "exploratória e experimental", porque _busca investigar estratégias de design de frameworks, explorando práticas existentes e testando novas abordagens para avaliar sua eficácia na reutilização e adaptabilidade_.
 
-**1.2. Estudos de Caso**
-* Serão realizados estudos de caso comparativos para identificar práticas de design que promovem a reutilização eficaz. Frameworks com diferentes níveis de sucesso em termos de adaptação e aceitação serão comparados.
-* Exemplos de domínios de aplicação incluem desenvolvimento web (Django, Angular) e aplicações empresariais (Spring).
+2. Os materiais utilizados neste trabalho são: ambientes de desenvolvimento de software (IDEs) como Visual Studio Code e Eclipse; frameworks de código aberto como Spring, Django e .NET para análise comparativa; documentação técnica e repositórios de código em plataformas como [GitHub](https://github.com/) e dados qualitativos coletados por meio de entrevistas com desenvolvedores.
 
-**1.3. Coleta de Dados**
-* A coleta de dados envolverá a análise de documentação oficial, inspeção de código-fonte, e consulta a repositórios GitHub associados aos frameworks.
-* Serão utilizados scripts para extrair métricas de reutilização de código, como a porcentagem de classes reutilizáveis e o tempo médio necessário para modificar o framework.
-  
-**1.4. Métricas de Usabilidade**
-* A usabilidade dos frameworks será avaliada com base em:
-* Facilidade de extensão (tempo médio de modificação)
-* Número de linhas de código reutilizáveis
-* Tempo médio necessário para implementar um novo projeto utilizando o framework
+3. Os métodos empregados neste trabalho são: análise comparativa de frameworks, estudo de caso para testar diferentes abordagens de design, e pesquisa qualitativa para coleta de feedback dos desenvolvedores sobre usabilidade e adaptabilidade.
 
-**1.5. Análise Estatística**
-* A análise estatística será conduzida usando métodos como análise de variância (ANOVA) para comparar a eficácia das estratégias de design propostas.
-* A correlação de Spearman será aplicada para investigar a relação entre a extensibilidade do framework e sua aceitação pelos desenvolvedores.
-  
-**1.6. Validação**
-* A eficácia das estratégias propostas será mensurada por meio de estudos empíricos com desenvolvedores, envolvendo experimentos controlados e questionários qualitativos.
+4. As métricas de avaliação são: facilidade de aprendizado (tempo necessário para entender e utilizar o framework), adaptabilidade (facilidade de modificar o framework para atender novos requisitos), e taxa de reutilização (proporção de componentes reutilizados em diferentes projetos).
+
+5. As etapas de execução do trabalho são: (1) realizar uma revisão da literatura sobre estratégias de design de frameworks; (2) selecionar e documentar casos de sucesso e falha no uso de frameworks; (3) desenvolver ou modificar protótipos de frameworks baseados em diferentes estratégias de design; (4) Realizar testes experimentais com os protótipos desenvolvidos para avaliar a facilidade de aprendizado, adaptabilidade, e taxa de reutilização; (5) analisar os resultados obtidos e propor diretrizes de design para otimizar a reutilização e flexibilidade em frameworks de software.
