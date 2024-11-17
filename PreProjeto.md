@@ -1,4 +1,4 @@
-# Avaliação do engajamento de longo prazo de programadores em projetos de código aberto
+# Reutilização de software e design de frameworks
 
 1. Giovanna Lima Torres Guasch
 2. Maria Clara de Oliveira Silva
