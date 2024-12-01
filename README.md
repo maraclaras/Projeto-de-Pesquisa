@@ -12,4 +12,4 @@
     * [Pré Projeto](PreProjeto.md)
   
  * Projeto
-    * [Projeto](https://www.overleaf.com/read/nmwqdbtqrsbt#5c5b7a)
+    * [Padrões de Design em Frameworks de Software: Explorando Reutilização, Adaptabilidade e Usabilidade no Desenvolvimento Moderno](https://www.overleaf.com/read/nmwqdbtqrsbt#5c5b7a)
