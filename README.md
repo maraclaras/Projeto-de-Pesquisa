@@ -11,5 +11,5 @@
  * Pré Projeto
     * [Pré Projeto](PreProjeto.md)
   
-   * Projeto
+ * Projeto
     * [Projeto](https://www.overleaf.com/read/nmwqdbtqrsbt#5c5b7a)
